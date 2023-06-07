@@ -5,6 +5,9 @@ Internship task submission for QuadB Tech
 
 This is a 2-screen React JS application that allows users to explore TV shows using the [TVmaze API](https://api.tvmaze.com/search/shows?q=all). The application displays a list of show names along with some details on the first screen and provides a summary of a selected show on the second screen. Additionally, users can book a movie ticket for the selected show on the second screen.
 
+
+check this live demo : https://quadbtechmoviticket.netlify.app/
+
 ## Features
 
 - Retrieve TV show data from the TVmaze API in real-time
