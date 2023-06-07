@@ -41,16 +41,6 @@ check this live demo : https://quadbtechmoviticket.netlify.app/
 
 2. Open your web browser and navigate to `http://localhost:3000` to access the application.
 
-## Contributing
-
-Contributions are welcome! If you would like to contribute to this project, please follow these steps:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them with descriptive commit messages.
-4. Push your changes to your forked repository.
-5. Submit a pull request explaining your changes.
-
 ## Acknowledgments
 
 - [TVmaze API](https://api.tvmaze.com/search/shows?q=all) for providing the TV show data.
