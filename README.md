@@ -1,4 +1,4 @@
-# quadb
+# Quadb Tech
 Internship task submission for QuadB Tech
 
 # React JS TV Show Explorer
